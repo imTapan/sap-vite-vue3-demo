@@ -1,6 +1,6 @@
 {
   "name": "sap-vue-demo",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "author": {
@@ -10,7 +10,7 @@
     "dev": "vite",
     "mta": "mbt build",
     "build": "vite build",
-    "serve": "vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "vue": "^3.5.12"

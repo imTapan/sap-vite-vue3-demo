@@ -1,7 +1,7 @@
 {
     "tiles": [
         {
-            "text": "vue-app-webclient3",
+            "text": "vue-app-webclient",
             "icon": "sap-icon://customize",
             "url": "index.html",
             "subtitle": "Web Client Vue Application Extension",
