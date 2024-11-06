@@ -1,0 +1,18 @@
+{
+    "tiles": [
+        {
+            "text": "vue-app-webclient3",
+            "icon": "sap-icon://customize",
+            "url": "index.html",
+            "subtitle": "Web Client Vue Application Extension",
+            "dynamicContent": {
+                "repositories": [
+                    {
+                        "converter": "kpiNumber",
+                        "endpoint": "/b1s/v2/PurchaseOrders/$count"
+                    }
+                ]
+            }
+        }
+    ]
+}
